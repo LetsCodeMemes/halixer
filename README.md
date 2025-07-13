@@ -46,3 +46,4 @@ through the use of GSAP timeline (tween)
 - Added background leaf parallax animation  
 
 # Halixer is made #
+- Final Results: https://halixer.vercel.app/
